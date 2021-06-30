@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class stringToDateExercise {
+public class StringToDateExercise {
     public static void main(String[] args) {
         getDate("2022-11-22");
         getDateAndTime("2022-11-22T12:34");

@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.function.BiConsumer;
 import java.util.function.Consumer;
 
-public class foreachExercise {
+public class ForeachExercise {
 
     public static void main(String[] args) {
 

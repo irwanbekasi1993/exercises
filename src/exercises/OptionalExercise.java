@@ -2,7 +2,7 @@ package exercises;
 
 import java.util.Optional;
 
-public class optionalExercise {
+public class OptionalExercise {
     public static void main(String[] args) {
         //optionalObjects
         Optional<Integer> possible1 = Optional.empty();

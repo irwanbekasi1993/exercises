@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class streamExercise {
+public class StreamExercise {
     public static void main(String[] args) {
         //streamOf
         Stream<Integer> stream = Stream.of(1,2,3,4,5,6,7,8,9);

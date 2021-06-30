@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.StringJoiner;
 import java.util.stream.Collectors;
 
-public class joinStreamExercise {
+public class JoinStreamExercise {
     public static void main(String[] args) {
         convertListToString(Arrays.asList("how","to","do","in","java"));
         convertArrToString(new String[]{"how","to","do","in","java"});

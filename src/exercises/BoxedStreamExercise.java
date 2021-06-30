@@ -7,7 +7,7 @@ import java.util.stream.DoubleStream;
 import java.util.stream.IntStream;
 import java.util.stream.LongStream;
 
-public class boxedStreamExercise {
+public class BoxedStreamExercise {
     public static void main(String[] args) {
         //intStream
         List<Integer> ints = IntStream.of(1,2,3,4,5).boxed().collect(Collectors.toList());

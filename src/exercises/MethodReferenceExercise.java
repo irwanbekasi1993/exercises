@@ -7,7 +7,7 @@ import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class methodReferenceExercise {
+public class MethodReferenceExercise {
     public static void main(String[] args) {
         //methodReference
         List<Integer> integers = Arrays.asList(1,12,433,5);

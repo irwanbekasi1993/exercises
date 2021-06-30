@@ -6,7 +6,7 @@ import java.util.function.Predicate;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
-public class regexPredicateExercise {
+public class RegexPredicateExercise {
     public static void main(String[] args) {
         //regexPredicate
         Predicate<String> emailFilter = Pattern.compile("^(.+)@example.com").asPredicate();
